@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=180&section=header&text=Presillia%20Nisma%20Sari%20🧬&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Bioinformatics%20|%20Genomics%20|%20Nature%20Data%20Science&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=180&section=header&text=Presillia%20Nisma%20Sari%20🧬&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Bioinformatics%20|%20Genomics&descAlignY=65&descAlign=47)
 
 ---
 
@@ -12,19 +12,19 @@ especially in the areas of **genome analysis and molecular biology**.
 ### 🔬 Interests & Skills  
 - **Genomics & Molecular Biology**
 - **Clinical & Environmental Biology Applications**  
-- **Bioinformatics ** (Galaxy, Linux, R, Python)  
+- **Bioinformatics** (Galaxy, Linux, R, Python)  
 - **Data Visualization**  
  
 
 ---
 
-### 🧬 Last Project: Natural Product Proscpect from Bacteria Genom
+### 🧬 Last Project: Prospecting Natural Products from Bacterial Genomes
 I believe that **bacterial genomes hold a key role in unlocking novel natural products**.  
 Through genome sequencing and bioinformatic analysis, it is possible to discover  
 hidden biosynthetic gene clusters that can lead to valuable **bioactive compounds**.  
 
 This perspective shaped my final project, where I explored how  
-**genomic insights from bacteria can contribute to natural product prospecting** —  
+**genomic insights from bacteria can contribute to natural product prospecting**  
 bridging computational tools with biotechnology innovation.  
 
 ---
